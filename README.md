@@ -7,17 +7,11 @@
 ## Installation
 
 ### Clone repository
-	```
 	git clone https://github.com/nidhink111/LidarLite_Pi.git
-	```
 ### Install WiringPi
-	```
 	sudo apt-get install wiringpi
-	```
 ### Install command-line utility programs that can help get an I2c interface working
-	```
 	sudo apt-get install -y i2c-tools
-	```
 	
 ## Integration Details
 
